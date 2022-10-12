@@ -26,7 +26,7 @@ Pour l'installer :
 ```bash
 npm run build
 ```
-4. Enfin, lancer
+4. Enfin, lancer:
 ```bash
  npm start
 ```
