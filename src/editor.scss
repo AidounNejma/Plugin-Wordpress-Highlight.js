@@ -1,0 +1,11 @@
+/**
+ * The following styles get applied inside the editor only.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+@import 'highlight.js/scss/tokyo-night-dark.scss';
+
+.wp-block-create-block-highlight-js {
+	border: 1px dotted #f00;
+}
